@@ -33,3 +33,11 @@ Welcome to the **Cognifyz Data Analysis Internship** repository! This project sh
 - Progressed from basic cleaning to advanced analysis, preparing datasets for visualization or modeling.
 
 ---
+
+🌟 About This Project
+
+This project was part of an internship with Cognifyz, focusing on analyzing real-world datasets. The work demonstrates a step-by-step process to clean, explore, and derive insights from data. It is a testament to my commitment to detail and continuous improvement.
+🔗 Connect with Me
+
+    LinkedIn: Rounak Pyne
+    Portfolio: rounakpyne.github.io
